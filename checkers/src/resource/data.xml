@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<checkers version="1.0">
+  <current-player value='2' />
+  <previous-winner value='1' />
+  <move-count value='1' />
+  <move-displayed value='true' />
+  <autoplay value='true' />
+  <saved-on-close value='true' />
+  <state_saved value='true' />
+  <game-over value='false' />
+  <board>
+    <piece row='0' col='1' player-number='1' is-king='false' />
+    <piece row='0' col='3' player-number='1' is-king='false' />
+    <piece row='0' col='5' player-number='1' is-king='false' />
+    <piece row='0' col='7' player-number='1' is-king='false' />
+    <piece row='1' col='0' player-number='1' is-king='false' />
+    <piece row='1' col='2' player-number='1' is-king='false' />
+    <piece row='1' col='4' player-number='1' is-king='false' />
+    <piece row='1' col='6' player-number='1' is-king='false' />
+    <piece row='2' col='1' player-number='1' is-king='false' />
+    <piece row='2' col='3' player-number='1' is-king='false' />
+    <piece row='2' col='7' player-number='1' is-king='false' />
+    <piece row='3' col='4' player-number='1' is-king='false' />
+    <piece row='5' col='0' player-number='2' is-king='false' />
+    <piece row='5' col='2' player-number='2' is-king='false' />
+    <piece row='5' col='4' player-number='2' is-king='false' />
+    <piece row='5' col='6' player-number='2' is-king='false' />
+    <piece row='6' col='1' player-number='2' is-king='false' />
+    <piece row='6' col='3' player-number='2' is-king='false' />
+    <piece row='6' col='5' player-number='2' is-king='false' />
+    <piece row='6' col='7' player-number='2' is-king='false' />
+    <piece row='7' col='0' player-number='2' is-king='false' />
+    <piece row='7' col='2' player-number='2' is-king='false' />
+    <piece row='7' col='4' player-number='2' is-king='false' />
+    <piece row='7' col='6' player-number='2' is-king='false' />
+  </board>
+  <player-list>
+    <player number='1' name='Computer' score='0' game-played='4' move-count='21' wins='5' current-winning-streak='5' longest-winning-streak='5' losses='1' current-losing-streak='0' longest-losing-streak='1' tied='5' all-time-score='5' all-time-kings='0' most-kings='0' current-king-count='0' longest-jump='2'  />
+    <player number='2' name='Human' score='0' game-played='4' move-count='23' wins='1' current-winning-streak='0' longest-winning-streak='1' losses='5' current-losing-streak='5' longest-losing-streak='5' tied='2' all-time-score='12' all-time-kings='1' most-kings='1' current-king-count='0' longest-jump='3'  />
+  </player-list>
+</checkers>
